@@ -49,9 +49,7 @@ public class Assignment1 {
 		}else {
 			dis = (total*10)/100;
 		}
-		
-		
-		
+			
 		
 		output = total -dis;
 		
